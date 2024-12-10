@@ -1,0 +1,5 @@
+# Enforce consistent line endings
+* text=auto
+
+# For JSON files, enforce LF
+*.json text eol=lf
